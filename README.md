@@ -20,11 +20,9 @@ Different users in Linkedin have different attributes, which consists of mandato
 
 LinkedinUser is a complex object with below attributes using composition:
 
-i) String userName;
-
-ii) UserBasicInfo userInfo;
-
-iii) ContactInfo contactInfo;
+    i) String userName;
+    ii) UserBasicInfo userInfo;
+    iii) ContactInfo contactInfo;
 
 
 LinkedinUserBuilder is a static builder class, which contains and builds LinkedinUser.
@@ -36,11 +34,9 @@ LinkedinUserBuilder builds LinkedinUser by setting optional parameters : **UserB
 This example illustrates three different LinkedinUsers with different attributes, built from Builder.
 
 
-i) lnUser1 was built as LinkedinUser with userName attribute only
-
-ii) lnUser2 was built as LinkedinUser with userName and UserBasicInfo
-
-iii) lnUser3 was built as LinkedinUser with userName,UserBasicInfo and ContactInfo
+    i) lnUser1 was built as LinkedinUser with userName attribute only
+    ii) lnUser2 was built as LinkedinUser with userName and UserBasicInfo
+    iii) lnUser3 was built as LinkedinUser with userName,UserBasicInfo and ContactInfo
 
 In above example, composition has been used instead of duplicating all attributes of LinkedinUser in Builder class.
 
