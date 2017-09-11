@@ -45,5 +45,6 @@ In creational patterns, we will first start with simple pattern like FactoryMeth
 # Resource Link:
 https://stackoverflow.com/documentation/design-patterns/1811/builder-pattern/17177/builder-pattern-in-java-with-composition#t=201707130922154239387
 
-![alt text](http://imgur.com/a/kOJUz "Description goes here")
-![image](http://imgur.com/a/kOJUz)
+Rizvi
+
+![image](https://3.bp.blogspot.com/-t7eE54Rf0q4/WbZkU32n_vI/AAAAAAAAAb4/CiqH7tQgsKgLCvcn9NNNljGZlYnSun8uwCLcBGAs/s1600/default.png)
